@@ -1,0 +1,688 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow-x:hidden ; */
+    font-family: Verdana,sans-serif;
+}
+.menu{
+    width: 100%;
+    height: auto;
+    display: flex;
+    background-color: black;
+    position:fixed ;
+    top: 0px;
+    z-index: 999;
+    /* justify-content: space-between; */
+}
+.menu button{
+    width: 96px;
+    height: 38px;
+    border: none;
+    font-size: 15px;
+    color: white;
+    background-color: #009688;
+}
+.menu button:hover{
+    background-color: grey;
+    color:black;
+}
+.menu1{
+    align-items: center;
+    justify-content: start;
+}
+.menu1 button{
+    margin-right: -5px;
+    width: 72px;
+    height: 38px;
+    border: none;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+}
+.menu1 button:hover{
+    color: black;
+    background-color: #f0f0f0;
+}
+.menu1 span{
+    padding-left: 6px;
+    padding-top: 7px;
+    margin-left: 7px;
+    padding-bottom: 10px;
+}
+.menu1 span:hover{
+    color: black;
+    background-color: #f0f0f0;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width: 115px;
+  } 
+  .dropdown-toggle {
+    font-size: 15px;
+    width: 150px; 
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .dropdown-menu {
+    width: 150px;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  } 
+  .dropdown-menu a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+  }
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+.menu2 button{
+    font-size: 15px;
+    width: 45px;
+    color: white;
+    background-color: black;
+}
+.menu2 button:hover{
+    background-color: #009688;
+    color: white;
+}
+  .menuorta{
+    width: 959px;
+  }
+/* slider */
+.slider{
+    width: 100%;
+    height: 600px;
+    margin-bottom: 77px;
+    background-color: red;
+}
+.slider img{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+}
+.slider button{
+    width: 215px;
+    height: 50px;
+    position: absolute;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 24px;
+    left: 15px;
+    margin-top: 533px;
+}
+.slider button:hover{
+    background-color: #009688;
+    color: white;
+}
+/* takım */
+.takim{
+    height: 400px;
+    text-align: center;
+    /* padding:40px;*/
+    
+}
+.takim p{
+    font-size: 95%;
+}
+.text{  
+    justify-content: center; 
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.avatar{
+    padding-top: 40px;
+    padding-inline:  16px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.avatar-box{
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+}
+.avatar img{
+width: 45%;
+/* height: 165px; */
+border-radius:50%;
+/* border:10px solid #fff */
+}
+.avatar img:hover{
+opacity: 0.60;
+}
+.avatar p{
+    
+    margin-top: 20px;
+    font-size: 15px;
+}
+.avatar h2{
+    font-weight: 400;
+    font-family: "Segoe UI",Arial,sans-serif;
+    margin-top: 10px;
+}
+/* ourwork */
+.OurWork{
+    margin-top: 45px;
+    background-color: red;
+    margin-bottom: 60px;
+}
+.ourbos{
+    position: relative;
+}
+.menu-button{
+    border: none;
+    cursor: pointer;
+    position:absolute;
+    top:-28px;
+    right:24px;
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 50%;
+    color: white;
+    background-color: #009688;
+}
+.menu-button:hover{
+    background-color: #b0b0b0;
+    color: black;
+}
+
+
+/* Yandan açılır menü */
+#sidebar {
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    transition: 0.8s;
+    top: 0;
+
+    left: -300px;
+
+    background-color: white;
+    color: black;
+    transition: left 0.3s ease-in-out;
+    z-index: 999; /* Menü butonunun altında kalması için */
+}
+ #sidebar.checked{
+    left: 0;
+ }
+#sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#sidebar li {
+    font-size: 40px;
+}
+#sidebar li h1 {
+    
+    font-weight: 100;
+    font-size: 35px;
+    color: #009688;
+}
+#sidebar a {
+    text-decoration: none;
+    color:black;
+}
+#sidebar .tus-1 h1{ 
+    padding: 15px;
+    height: 50px;
+    margin-bottom: 100px;
+}
+#sidebar .tus-1 h1:hover{
+    cursor: pointer;
+    color: black;
+    background-color: #8b8b8b;
+}
+#sidebar .tus{
+    padding: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+#sidebar .tus:hover{
+    color: black;
+    background-color: #8b8b8b;
+}
+
+
+
+
+.menu-button:checked + #sidebar {
+    left: -300px;
+}
+
+
+
+
+.ourwork1{
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(54, 54, 54);
+    padding-right: 10px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.yazi{
+    width: 23%;
+    height: 100%;
+    color:aliceblue;
+}
+.yazi h1{
+    font-weight: 400;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+.resim{
+    width: 24%;
+    height: 100%;
+    background-color: white;
+}
+.resim img{
+    width: 100%;
+    height: 50%;
+    justify-content: space-around;
+}
+.resim h2{
+    font-weight: 100;
+    margin-left: 10px;
+}
+.resim p{
+    font-size: 15px;
+    margin-left: 10px;
+}
+/* üyelik */
+.uyelikler{
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin-bottom: 50px;
+}
+.uyelikyazi{
+    margin-left: 50px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.basit{
+    width: 32%;
+    height: min-content;
+    border: 0.5px solid #b0b0b0;
+}
+.basit:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.basit h1{
+    width: 100%;
+    height: 65px;
+    font-weight: 500;
+    font-size: 25px;
+    padding-top:35px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.basit p{
+    margin-bottom: 15px;
+    text-align: center;
+}
+.basit-fiyat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.basit b{
+    margin-right: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.basit h6{
+    font-weight: 100;
+    font-size: 30px;
+}
+.basit button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 44px;
+    color: white;
+    font-size: 15px;
+    background-color: #009688;
+    border: none;
+}
+.basit button:hover{
+    color: black;
+    background-color: #8b8b8b;
+}
+.btn{
+    background-color: #f0f0f0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pro{
+    width: 32%;
+    height: min-content;
+    border: 0.5px solid #b0b0b0;
+}
+.pro:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.pro h1{
+    width: 100%;
+    height: 65px;
+    font-weight: 500;
+    font-size: 25px;
+    padding-top:35px;
+    text-align: center;
+    color: white;
+    background-color: #646464;
+}
+.pro p{
+    margin-bottom: 15px;
+    text-align: center;
+}
+.pro-fiyat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pro b{
+    margin-right: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.pro h6{
+    font-weight: 100;
+    font-size: 30px;
+}
+.pro h2{
+    text-align: center;
+    font-size: 30px;
+}
+.pro button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 44px;
+    color: white;
+    font-size: 15px;
+    background-color: #009688;
+    border: none;
+}
+.pro button:hover{
+    color: black;
+    background-color: #8b8b8b;
+}
+.premium{
+    width: 32%;
+    height: min-content;
+    border: 0.5px solid #b0b0b0;
+}
+.premium:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.premium h1{
+    width: 100%;
+    height: 65px;
+    font-weight: 500;
+    font-size: 25px;
+    padding-top:35px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.premium p{
+    margin-bottom: 15px;
+    text-align: center;
+}
+.premium-fiyat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.premium b{
+    margin-right: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.premium h6{
+    font-weight: 100;
+    font-size: 30px;
+}
+.premium h2{
+    text-align: center;
+    font-size: 30px;
+}
+.premium button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 44px;
+    color: white;
+    font-size: 15px;
+    background-color: #009688;
+    border: none;
+}
+.premium button:hover{
+    
+    color: black;
+    background-color: #8b8b8b;
+}
+/* iletişim */
+.iletisim{
+    padding: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: min-content;
+    background-color:#f0f0f0; 
+    display: flex;
+}
+.adres{
+    
+    width: 40%;
+    height: 300px;
+    margin-top: 20px;
+}
+.adres h1{
+    font-weight: 500;
+    font-size: 25px;
+    border-bottom: 7px  #009688 solid  ;
+    width: 140px;
+}
+.adres h2{
+    font-weight: 100;
+}
+
+.adres p{
+    font-size: 15px;
+    color: black ;
+}
+.form{
+    width: 60%;
+    /* height: 320px; */
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #8b8b8b;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.form h3{
+    font-weight: 500;
+}
+input[type=text] {
+width: 100%;
+height: 35px;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: none;
+}
+.gonder{
+    margin-top: 10px;
+    display: flex;
+}
+.gonder button{
+    font-weight: 400;
+    font-size: 15px;
+    width: 70px;
+    height: 40px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 674px;
+    margin-top: 15px;
+    border:none;
+}
+.gonder p{
+    margin-left: 10px;
+    margin-top: 18px;
+    font-size: 20px;
+}
+.gonder button:hover{
+    background-color: #8b8b8b;
+    color: black;
+}
+input[type=checkbox]{
+    width: 30px;
+    
+}
+/*  map  */
+.map{
+    width: 100%;
+    height: 845px;
+}
+.map img{
+    width: 100%;
+    height: 841px;
+}
+/* son */
+.son{
+    width: 100%;
+    margin-top: -5px;
+    height: 300px;
+    background-color: black;
+    align-items: center;
+}
+.sonbaslik{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    margin-right:30px;
+    color:#ffffff;
+}
+.sosyalmedya{
+    align-items: center;
+    text-align: center; 
+    display: flex;
+    justify-content: space-between;
+
+}
+.iconlar{
+    width: 270px;
+    justify-content: space-between;
+    display: flex; 
+    height: 50px;
+    
+}
+.iconlar span{
+    width: 50px;
+    height: 50px;
+    background-color: #009688;
+}
+.bosluk{
+    width: 70px;
+}
+.dis{
+    display: flex;
+}
+.basadon{
+    display: block;
+    margin-right: 10px;
+    padding-top: 10px;
+    font-size: 24px;
+    width: 50px;
+    height: 40px;
+    color: white;
+    margin-left: 10px;
+}
+.basadon a{
+    color: white;
+}
+.basadon:hover{
+    background-color: #f0f0f0;
+}
+.basadon:hover a{
+    color: black;
+}
+.basadon:hover .basadon-go{
+    position: absolute;
+    display: block;
+}
+.basadon-go{
+    display: none;
+    color: white;
+    background-color:#009688;
+    position: absolute;
+    right: 63px;
+    padding: 8px 16px;
+    z-index: 999;
+    bottom: -427%;
+    font-size: 18px;
+    
+}
+.basadon-go a{
+    color: white;
+    text-decoration: none;
+}
+.basadon-go:hover{
+
+    color: white;
+}
+.basadon-go a:hover .basadon{
+   background-color: black;
+}
+
+
+
+
+
+
+.icon{
+    color: #ffffff;
+    width: 50px;
+    margin-top: 15px;
+}
+.icon:hover{
+    color:black;
+}
+.sosyalmedya span:hover{
+    background-color: grey;
+}
+.alt{
+    margin-top: 10px;
+    margin-left: 677px;
+    color: #ffffff;
+}
+.alt a{
+    
+    color: white;
+}
