@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/all.css" />
+    <link rel="preload" href="subset-KyivTypeSans-Medium-.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet"/>
+  </head>
+  <body>
+   
+    <!-- üst -->
+    <div class="nav">
+      <!-- Navbar -->
+      <div class="Navbar">
+        <div class="logo"><img src="images/logo.png" alt="" /></div>
+        <div class="menu">
+          <span><a href="#Gallery">Gallery</a></span>
+          <span><a href="#Pricesforservices">Prices for services</a></span>
+          <span><a href="#about">About us</a></span>
+          <span><a href="#contact">Contact</a></span>
+        </div>
+      </div>
+      <div class="rsm">
+        <img src="images/imag.png" class="imag" alt="" />
+      </div>
+      <!-- SOLİD WOOD PRODUCTS -->
+      <div class="mainscreen">
+        <div class="main">
+          <div class="maintext">
+            <h1>SOLID WOOD PRODUCTS</h1>
+            <h2>
+              Oac, beech, ash from <br />
+              <strong>1700 CZK</strong> per m3
+            </h2>
+            <button>Order</button>
+          </div>
+          <div class="cizgi"></div>
+          <div class="mainrsm">
+            <div class="mainrsm1">
+              <img src="images/solid1.png" alt="" />
+            </div>
+            <div class="mainrsm2">
+              <span><img src="images/solid2.png" alt="" /></span>
+              <img src="images/solid3.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Vector.img -->
+    <div style="overflow: hidden;"> 
+      <img class="vector" src="images/Vector.png" alt="vector" />
+      <!-- THE WOOD WE WORK WITH -->
+      <div class="THE-WOOD-WE-WORK-WITH">
+        <div class="THE-WOOD-WE-WORK-WITH-text">
+          <h1>THE WOOD WE WORK WITH</h1>
+        </div>
+        <div class="THE-WOOD-WE-WORK-WITHcart">
+          <div class="cart-Oac">
+            <img src="images/cart-1.png" alt="" />
+            <strong><h6>Oak</h6></strong>
+            <p>
+              <i
+                class="fa-solid fa-check"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Durability
+            </p>
+            <br />
+            <p>
+              <i
+                class="fa-solid fa-check"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Beautiful texture
+            </p>
+            <br />
+            <p>
+              <i
+                class="fa-solid fa-check"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Water resistance
+            </p>
+            <br />
+            <p>
+              <i
+                class="fa-solid fa-xmark"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Expensive
+            </p>
+          </div>
+          <div class="cart-Buk">
+            <img src="images/cart-2.png" alt="" />
+            <strong><h6>Buk</h6></strong>
+            <p>
+              <i
+                class="fa-solid fa-check"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Durability
+            </p>
+            <br />
+            <p>
+              <i
+                class="fa-solid fa-xmark"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Hard to handle
+            </p>
+          </div>
+          <div class="cart-Ash">
+            <img src="images/cart-3.png" alt="" />
+            <strong><h6>Ash</h6></strong>
+            <p>
+              <i
+                class="fa-solid fa-check"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Durability
+            </p>
+            <br />
+            <p>
+              <i
+                class="fa-solid fa-xmark"
+                style="color: #ffc099; margin-right: 10px"
+              ></i
+              >Hard to handle
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- Slider -->
+      <div class="ourwork" >
+        <div class="ourwork-text"><h1>OUR WORK</h1></div>
+        <div class="silder-container">
+          <div>
+            <div class="back">
+              <button id="prev"><i class="fa-solid fa-arrow-left" style="background: transparent;"></i></button>
+            </div>
+            <div class="slider" id="Gallery">
+              <div class="slide active"></div>
+              <div class="slide"></div>
+              <div class="slide"></div>
+            </div>
+            <div class="indicators">
+              <button id="next"><i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+          </div>
+          <div class="dots">
+            <span class="dot" onclick="goToSlide(0)"></span>
+            <span class="dot" onclick="goToSlide(1)"></span>
+            <span class="dot" onclick="goToSlide(2)"></span>
+          </div>
+        </div>
+      </div>
+      <!-- acıklama -->
+      <div class="aciklamabody">
+        <div class="aciklama-text">
+          <h1>ADVANTAGES <br />WORKING WITH US</h1>
+        </div>
+        <div class="aciklama">
+          <div class="aciklama-img">
+            <img src="images/video.png" alt="" />
+          </div>
+          <div class="aciklama-yazi">
+            <p>
+              In-house carpentry <br />
+              production
+            </p>
+            <p>
+              We only treat wood with <br />
+              environmentally friendly <br />
+              and safe products
+            </p>
+            <p>Prices from the manufacturer, no extra charges</p>
+          </div>
+        </div>
+        <div class="aciklama-btn">
+          <button>Receive a consultation</button>
+        </div>
+      </div>
+      <!-- altmenuscreen -->
+      <div class="altmenuscreen" id="about">
+        <div class="alt-menu">
+          <div class="alt-menu-text">
+            <h1>About us</h1>
+            <p>
+              <strong>BIO CWT </strong>- We manufacture solid wood products
+              according to individual drawings. We make chairs, armchairs,
+              wardrobes, beds and much more in our own workshop, equipped with all
+              the necessary industrial equipment.
+            </p>
+          </div>
+          <div class="alt-menu-img">
+            <img class="menu-img-2" src="images/about-2.png" alt="" />
+            <div class="menu-img-1">
+              <img src="images/about-1.png" alt="" />
+            </div>
+            <div class="menu-img-3">
+              <img src="images/about-3.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Sorular -->
+      <div class="ANY-QUESTIONS" id="Pricesforservices">
+        <div class="questions-title"><h1>ANY QUESTIONS?</h1></div>
+        <div class="questions-contents">
+          <div class="questions-input">
+            <input type="text" class="input" placeholder="Your Name" maxlength="38"/>
+            <br />
+            <input type="number" class="input" placeholder="Your telephone number"/>
+            <br />
+            <textarea 
+              class="input"
+              type="text"
+              placeholder="Your question"
+              style="height: 257px; padding-top: 20px;"
+            ></textarea>
+            <br />
+            <button>Send</button>
+          </div>
+          <div class="questions-text">
+            <p>
+              Write to us and we will be sure to <br />answer all your questions
+              and give <br />
+              you a comprehensive consultation.
+            </p>
+            <div class="questions-text-img">
+              <img
+                src="images/kütük.png"
+                style="background-color: rgba(255, 255, 255, 0)"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- footer menu -->
+    <footer class="footer"id="contact">
+      <div class="footer-menu">
+        <div class="footer-logo">
+          <img src="images/logo.png" alt="" />
+          <p>Privacy Policy</p>
+        </div>
+        <div class="footer-number">   
+          <div>
+            <svg class="number" xmlns="http://www.w3.org/2000/svg" width="50" height="60" viewBox="0 10 50 50" fill="none">
+            <path d="M29.6289 7.40245C29.6809 7.20383 29.772 7.01757 29.8968 6.8546C30.0217 6.69163 30.1778 6.55522 30.3561 6.45335C30.5344 6.35149 30.7311 6.28623 30.9349 6.26139C31.1388 6.23655 31.3455 6.25264 31.543 6.3087C34.4557 7.0899 37.1116 8.62371 39.244 10.7561C41.3764 12.8885 42.9102 15.5444 43.6914 18.4571C43.7475 18.6546 43.7636 18.8614 43.7387 19.0652C43.7139 19.269 43.6486 19.4658 43.5468 19.644C43.4449 19.8223 43.3085 19.9784 43.1455 20.1033C42.9825 20.2281 42.7963 20.3192 42.5977 20.3712C42.4643 20.4098 42.3263 20.4295 42.1875 20.4298C41.8426 20.4278 41.5081 20.3118 41.2361 20.0998C40.9641 19.8878 40.7698 19.5918 40.6836 19.2579C40.0338 16.8796 38.7751 14.7117 37.0317 12.9684C35.2884 11.225 33.1205 9.96629 30.7422 9.31651C30.5418 9.26668 30.3535 9.17714 30.1883 9.05319C30.0232 8.92924 29.8846 8.7734 29.7808 8.59491C29.677 8.41642 29.61 8.21891 29.5839 8.01408C29.5578 7.80925 29.5731 7.60126 29.6289 7.40245ZM29.1211 15.3517C30.4431 15.7136 31.6481 16.4136 32.6173 17.3828C33.5865 18.352 34.2865 19.557 34.6484 20.879C34.7316 21.2146 34.925 21.5125 35.1977 21.725C35.4704 21.9375 35.8066 22.0523 36.1523 22.0509C36.2848 22.0522 36.4167 22.0324 36.543 21.9923C36.7434 21.9425 36.9317 21.8529 37.0968 21.729C37.262 21.605 37.4006 21.4492 37.5044 21.2707C37.6082 21.0922 37.6751 20.8947 37.7012 20.6899C37.7273 20.485 37.712 20.277 37.6562 20.0782C37.163 18.2218 36.1879 16.5287 34.8296 15.1705C33.4714 13.8122 31.7783 12.8371 29.9219 12.3439C29.7181 12.2696 29.501 12.2386 29.2846 12.2528C29.0681 12.2671 28.857 12.3262 28.6646 12.4265C28.4723 12.5268 28.3029 12.666 28.1674 12.8353C28.0318 13.0047 27.9329 13.2004 27.8771 13.41C27.8213 13.6196 27.8098 13.8385 27.8432 14.0529C27.8767 14.2672 27.9544 14.4722 28.0714 14.6549C28.1884 14.8375 28.3422 14.9938 28.5229 15.1138C28.7036 15.2337 28.9073 15.3147 29.1211 15.3517ZM45.2344 34.1993C44.8889 36.8368 43.5973 39.2591 41.5999 41.0159C39.6025 42.7726 37.035 43.7442 34.375 43.7501C18.8672 43.7501 6.25 31.1329 6.25 15.6251C6.25586 12.9651 7.22749 10.3977 8.98422 8.40022C10.741 6.40279 13.1633 5.11125 15.8008 4.76573C16.4731 4.69118 17.1518 4.83274 17.7382 5.16988C18.3247 5.50702 18.7886 6.0222 19.0625 6.64073L22.9883 15.8009C23.1919 16.2764 23.2736 16.7952 23.2258 17.3102C23.1781 17.8252 23.0024 18.3202 22.7148 18.7501L19.4727 23.711C20.9408 26.6905 23.3599 29.0958 26.3477 30.547L31.25 27.2853C31.6795 26.9958 32.1757 26.8205 32.6917 26.7761C33.2077 26.7317 33.7266 26.8195 34.1992 27.0314L43.3594 30.9376C43.9779 31.2115 44.4931 31.6754 44.8302 32.2619C45.1674 32.8483 45.3089 33.527 45.2344 34.1993ZM42.1289 33.8087L32.9687 29.9025L28.0859 33.1642C27.6367 33.4612 27.1182 33.637 26.581 33.6747C26.0437 33.7123 25.5058 33.6105 25.0195 33.379C21.3807 31.6188 18.4374 28.6892 16.6602 25.0587C16.4258 24.574 16.3207 24.0371 16.3549 23.4998C16.3891 22.9626 16.5616 22.4433 16.8555 21.9923L20.1172 17.0314L16.1914 7.8712C14.3065 8.1135 12.5746 9.03451 11.3199 10.4618C10.0652 11.8891 9.37374 13.7247 9.375 15.6251C9.38017 22.2539 12.0158 28.6098 16.703 33.2971C21.3903 37.9844 27.7462 40.6199 34.375 40.6251C36.2754 40.6264 38.111 39.9349 39.5383 38.6802C40.9656 37.4255 41.8866 35.6936 42.1289 33.8087Z" fill="#F5F5F5"/>
+             </svg>
+            </div>
+          +420 000 000 000
+        </div>
+        <div class="footer-local">
+          <!-- <i
+            class="fa-solid fa-location-dot"
+            style="
+              color: #ffffff;
+              margin: 30px 20px 0 0;
+              background-color: rgba(255, 255, 255, 0);
+            "
+          ></i> -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
+            <g clip-path="url(#clip0_30_135)">
+            <path d="M38.0188 27.9375C36.3813 31.2562 34.1625 34.5625 31.8938 37.5312C29.7416 40.3301 27.4403 43.011 25 45.5625C22.5596 43.0111 20.2584 40.3301 18.1063 37.5312C15.8375 34.5625 13.6188 31.2562 11.9813 27.9375C10.325 24.5844 9.375 21.4438 9.375 18.75C9.375 14.606 11.0212 10.6317 13.9515 7.70146C16.8817 4.7712 20.856 3.125 25 3.125C29.144 3.125 33.1183 4.7712 36.0485 7.70146C38.9788 10.6317 40.625 14.606 40.625 18.75C40.625 21.4438 39.6719 24.5844 38.0188 27.9375ZM25 50C25 50 43.75 32.2313 43.75 18.75C43.75 13.7772 41.7746 9.00805 38.2583 5.49175C34.7419 1.97544 29.9728 0 25 0C20.0272 0 15.2581 1.97544 11.7417 5.49175C8.22544 9.00805 6.25 13.7772 6.25 18.75C6.25 32.2313 25 50 25 50Z" fill="#F5F5F5"/>
+            <path d="M25 25C23.3424 25 21.7527 24.3415 20.5806 23.1694C19.4085 21.9973 18.75 20.4076 18.75 18.75C18.75 17.0924 19.4085 15.5027 20.5806 14.3306C21.7527 13.1585 23.3424 12.5 25 12.5C26.6576 12.5 28.2473 13.1585 29.4194 14.3306C30.5915 15.5027 31.25 17.0924 31.25 18.75C31.25 20.4076 30.5915 21.9973 29.4194 23.1694C28.2473 24.3415 26.6576 25 25 25ZM25 28.125C27.4864 28.125 29.871 27.1373 31.6291 25.3791C33.3873 23.621 34.375 21.2364 34.375 18.75C34.375 16.2636 33.3873 13.879 31.6291 12.1209C29.871 10.3627 27.4864 9.375 25 9.375C22.5136 9.375 20.129 10.3627 18.3709 12.1209C16.6127 13.879 15.625 16.2636 15.625 18.75C15.625 21.2364 16.6127 23.621 18.3709 25.3791C20.129 27.1373 22.5136 28.125 25 28.125Z" fill="#F5F5F5"/>
+            </g>
+            <defs>
+            <clipPath id="clip0_30_135">
+            <rect width="50" height="50" fill="white"/>
+            </clipPath>
+            </defs>
+            </svg>
+          <p>
+            Na Plzeňce 1166/0 <br />
+            150 00
+          </p>
+        </div>
+      </div>
+    </footer>
+    <script src="js/app.js"></script>
+    <script src="js/all.js"></script>
+  </body>
+</html>
