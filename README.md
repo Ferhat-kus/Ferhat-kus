@@ -2,7 +2,7 @@
 
 ## 📊 GitHub İstatistikleri
 
-<p style="aling-item:center;justify-content:between;" justify-content="between">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-kus&layout=compact&theme=radical" alt="Top Langs" />
 </p>
