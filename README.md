@@ -1,17 +1,55 @@
-## Hi there 👋
+# Merhaba, Ben [Adınız]! 👋
 
-<!--
-**Ferhat-kus/Ferhat-kus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profil Banner](https://your-banner-image-url)
 
-Here are some ideas to get you started:
+## 📊 GitHub İstatistikleri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&bg_color=00000000)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🏆 GitHub Ödülleri
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&no-frame=true)
+
+## 🌟 Popüler Repositories
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical)](https://github.com/yourusername/repo1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/yourusername/repo2)
+
+## 📫 Bana Ulaşın
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+- Email: your-email@example.com
+
+## 📝 Blog Yazılarım
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 💬 İlgilendiğim Konular
+
+- 🧠 Makine Öğrenimi
+- 💻 Web Geliştirme
+- 📊 Veri Analizi
+- 🚀 Yapay Zeka
+
+## 🌱 Şu Anda Öğreniyorum
+
+- 🚀 TensorFlow
+- 🐍 Python Geliştirme
+
+## 👯 İşbirliğine Açığım
+
+- Açık kaynak projeleri
+- İşbirliği ve mentorluk
+
+## ⚡ Eğlenceli Gerçekler
+
+- 🎸 Gitar çalmayı seviyorum
+- 🌍 Dünyayı gezmeyi hayal ediyorum
+
+---
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
