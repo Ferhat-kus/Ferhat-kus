@@ -8,14 +8,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-kus&layout=compact&theme=radical)
 
-## 🏆 GitHub Ödülleri
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ferhat-kus&theme=radical&no-bg=true&no-frame=true)
-
 ## 🌟 Popüler Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo1&theme=radical)](https://github.com/yourusername/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo2&theme=radical)](https://github.com/yourusername/repo2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo1&theme=radical)](https://github.com/Ferhat-kus/repo1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo2&theme=radical)](https://github.com/Ferhat-kus/repo2)
 
 ## 📫 Bana Ulaşın
 
