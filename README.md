@@ -1,7 +1,5 @@
 # Merhaba, Ben Ferhat! 👋
 
-![Profil Banner](https://your-banner-image-url)
-
 ## 📊 GitHub İstatistikleri
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&theme=radical)
