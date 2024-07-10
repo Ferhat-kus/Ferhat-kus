@@ -5,12 +5,14 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-kus&layout=compact&theme=radical)
+
 <!--
 ## 🌟 Popüler Repositories
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo1&theme=radical)](https://github.com/Ferhat-kus/repo1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo2&theme=radical)](https://github.com/Ferhat-kus/repo2)
 -->
+
 ## 📫 Bana Ulaşın
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
@@ -25,16 +27,35 @@
 ## 💬 İlgilendiğim Konular
 
 - 💻 Web Geliştirme
--   Mobil Geliştirme
+- 📱 Mobil Geliştirme
+
 <!--
 - 📊 Veri Analizi
 - 🚀 Yapay Zeka
 -->
+
 ## 🌱 Şu Anda Öğreniyorum
 
 - 🚀 TypeScript
 - 🐍 Nuxt.js
-<!--
 
+## ⚡ Eğlenceli Gerçekler
+
+- 🎸 Gitar çalmayı seviyorum
+- 🌍 Dünyayı gezmeyi hayal ediyorum
+- 🛹 Kaykay sürmeyi seviyorum
+- ✈️ Seyahat etmeyi seviyorum
+
+## 🛠 Kullandığım Teknolojiler
+
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue-dot-js&logoColor=4FC08D) Vue.js
+- ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt-dot-js&logoColor=white) Nuxt.js
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) TypeScript
+- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) React Native
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS3
+
+<!--
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ferhat-kus.Ferhat-kus)](https://github.com/Ferhat-kus)
 -->
