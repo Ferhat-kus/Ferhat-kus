@@ -17,7 +17,7 @@
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 - Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- Instagram: [@yourtwitter](https://twitter.com/_ferhat_k._)
+- Instagram: [@yourtwitter](https://instagram.com/_ferhat_k._)
 - Email: 55ferhat.kus@gmail.com
 
 ## 📝 Blog Yazılarım
