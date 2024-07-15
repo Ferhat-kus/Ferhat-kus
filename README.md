@@ -18,7 +18,7 @@
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo1&theme=radical)](https://github.com/Ferhat-kus/repo1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Ferhat-kus&repo=repo2&theme=radical)](https://github.com/Ferhat-kus/repo2)
 -->
-
+<!--
 ## 📫 Bana Ulaşın
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
@@ -27,19 +27,19 @@
 - Email: 55ferhat.kus@gmail.com
 
 ## 📝 Blog Yazılarım
-
+-->
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 
 ## 💬 İlgilendiğim Konular
 
 - 💻 Web Geliştirme
 - 📱 Mobil Geliştirme
-
+-->
 <!--
 - 📊 Veri Analizi
 - 🚀 Yapay Zeka
--->
+
 
 ## 🌱 Şu Anda Öğreniyorum
 
@@ -50,7 +50,7 @@
 
 - 🛹 Kaykay sürmeyi seviyorum
 - ✈️ Seyahat etmeyi seviyorum
-
+-->
 ## 🛠 Kullandığım Teknolojiler
 
 - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue-dot-js&logoColor=4FC08D) Vue.js
