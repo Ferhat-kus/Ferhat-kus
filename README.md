@@ -2,9 +2,8 @@
 
 ## 📊 GitHub İstatistikleri
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-kus&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 <!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&theme=radical)
