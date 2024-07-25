@@ -51,6 +51,7 @@
 - 🛹 Kaykay sürmeyi seviyorum
 - ✈️ Seyahat etmeyi seviyorum
 -->
+<!--
 ## 🛠 Kullandığım Teknolojiler
 
 - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue-dot-js&logoColor=4FC08D) Vue.js
