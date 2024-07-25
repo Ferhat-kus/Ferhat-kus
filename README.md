@@ -1,6 +1,6 @@
 # Merhaba, Ben Ferhat! 👋
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub İstatistiklerim
 
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&theme=radical" alt="Your GitHub Stats" />
