@@ -51,12 +51,30 @@ A modern, modular TypeScript-based UI component collection.
 
 ---
 
+<div align="center">
+
 ## 🧭 Mentor / Mentorship
 
-[![Fatih Yıldız](https://img.shields.io/badge/🧭%20Mentor%20%E2%80%94%20Fatih%20Yıldız-0ACF97?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0fatihyildiz)
+<table>
+  <tr>
+    <td rowspan="2" align="center">
+      <img src="https://github.com/0fatihyildiz.png?size=160" width="130" height="130" style="border-radius:50%;" alt="Fatih Yıldız" />
+    </td>
+    <td align="left">
+      <b>Fatih Yıldız</b>
+      <br/>
+      <sub><a href="https://github.com/0fatihyildiz">@0fatihyildiz</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      Kariyerimde bana yol gösteren ve teknik gelişimime yön veren mentorum. 🙏<br/>
+      <em>The mentor who guided my career and shaped my technical growth.</em>
+    </td>
+  </tr>
+</table>
 
-Kariyerimde bana yol gösteren ve teknik gelişimime katkı sağlayan mentorum.
-The mentor who has guided my career and contributed to my technical growth.
+</div>
 
 ---
 
