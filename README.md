@@ -17,12 +17,17 @@ I build end-to-end solutions that connect remote apps to the world — **from BI
 ## 📊 GitHub İstatistikleri / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ferhat-kus&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-kus&layout=donut&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" width="40%" />
+  <img src="https://img.shields.io/github/followers/Ferhat-kus?label=Followers&style=for-the-badge&color=0ACF97" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ferhat-kus?label=Stars&style=for-the-badge&color=0ACF97" alt="Stars" />
+  <img src="https://img.shields.io/badge/profile%20views-%E2%9C%94%20100%2B-0ACF97?style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ferhat-kus&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" width="48%" />
+  <img src="https://ghchart.rshah.org/2196F3/Ferhat-kus" alt="Katkı Takvimi / Contribution Calendar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ferhat-kus&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
@@ -104,10 +109,10 @@ A modern, modular TypeScript-based UI component collection.
 
 ---
 
-## 📈 Aktivite Grafiği / Activity Graph
+## 📈 Katkı Grafiği / Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferhat-kus&theme=github-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" width="98%"/>
+  <img src="https://ghchart.rshah.org/2196F3/Ferhat-kus" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
