@@ -26,11 +26,6 @@ Modern web teknolojileriyle sonsuz tuval üzerinde **vektör grafik düzenleme**
 
 A powerful **vector graphics editor** with infinite canvas on modern web technologies.
 
-### ☕ Kahve Falı — AI Yorumlama Uygulaması
-Ionic React + **Supabase** + **Gemini AI** ile 4 fotoğraflı kahve falı çekme ve yapay zeka yorumlaması.
-
-Coffee fortune-telling app with photo analysis and Gemini AI interpretation.
-
 ### 🧩 BlankUI — Komponent Kütüphanesi
 TypeScript tabanlı modern, modüler UI komponent koleksiyonu.
 
@@ -39,7 +34,7 @@ A modern, modular TypeScript-based UI component collection.
 ---
 
 ### 🔭 Ayrıca Üzerinde Çalışıyorum / Also Working On
-`mirage` ・ `venture-vibe`
+`mirage`
 
 **Organizasyonlar / Organizations:** [Sparkflow-org](https://github.com/Sparkflow-org) ・ [studlytrack](https://github.com/studlytrack)
 
