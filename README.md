@@ -4,9 +4,9 @@
 
 **Full-Stack Developer** ・ TypeScript & Vue/Nuxt + React Native
 
-Remote uygulamaları dünyaya bağlayan tam kapsamlı çözümler geliştiriyorum — **BİST veri analizinden terminal-first geliştirici araçlarına**, AI destekli uygulamalardan kurumsal ERP sistemlerine.
+Remote uygulamaları dünyaya bağlayan tam kapsamlı çözümler geliştiriyorum — **BİST veri analizinden AI destekli uygulamalara**, UI kütüphanelerinden vektör grafik editörlerine.
 
-I build end-to-end solutions that connect remote apps to the world — **from BIST market analytics to terminal-first developer tools**, AI-powered applications and enterprise ERP systems.
+I build end-to-end solutions that connect remote apps to the world — **from BIST market analytics to AI-powered applications**, UI libraries and vector graphics editors.
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Ferhat-kus.Ferhat-kus)](https://github.com/Ferhat-kus)
 
@@ -15,12 +15,6 @@ I build end-to-end solutions that connect remote apps to the world — **from BI
 ---
 
 ## 🚀 Öne Çıkan Projeler / Featured Projects
-
-### ⌨️ [ozaco](https://ozaco.com) — Terminal-First Developer Toolkit
-TypeScript ile geliştirilen, terminalde yaşayan geliştiriciler için modern geliştirme araç seti.
-Güçlü ekosistemiyle _CLI, builder, linter, deploy_ ve arka planda PostgreSQL/MySQL/MongoDB desteği. (ozaco org)
-
-A modern development toolkit for developers who live in the terminal — TypeScript-native, fast and secure by default. (org: **ozaco**)
 
 ### 📈 [BIST Analyzer (TS)](https://github.com/Ferhat-kus/bist-analyzer-ts) — AI Destekli Hisse Analizi
 Nuxt 3 + **TypeScript + Supabase** tabanlı BIST hisse analiz sistemi. Hafta içi borsa kapanışının ardından `node-cron` ile otomatik analiz, `Chart.js` ile görselleştirme.
@@ -45,9 +39,15 @@ A modern, modular TypeScript-based UI component collection.
 ---
 
 ### 🔭 Ayrıca Üzerinde Çalışıyorum / Also Working On
-`ozc` (CLI) ・ `ozaco/ui` ・ `ozaco/web` ・ `ozaco-tui` ・ `massimo-erp` ・ `mirage` ・ `venture-vibe`
+`mirage` ・ `venture-vibe`
 
-**Organizasyonlar / Organizations:** [ozaco](https://github.com/ozaco) ・ [Sparkflow-org](https://github.com/Sparkflow-org) ・ [studlytrack](https://github.com/studlytrack)
+**Organizasyonlar / Organizations:** [Sparkflow-org](https://github.com/Sparkflow-org) ・ [studlytrack](https://github.com/studlytrack)
+
+### 🧭 Mentor / Mentorship
+[![Fatih Yıldız](https://img.shields.io/badge/🧭%20Mentor%20%E2%80%94%20Fatih%20Yıldız-0ACF97?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0fatihyildiz)
+
+Kariyerimde bana yol gösteren ve teknik gelişimime katkı sağlayan mentorum.
+The mentor who has guided my career and contributed to my technical growth.
 
 ---
 
