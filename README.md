@@ -38,8 +38,6 @@ A modern, modular TypeScript-based UI component collection.
 
 ---
 
-<div align="center">
-
 ## 🧭 Mentor / Mentorship
 
 <table>
@@ -60,8 +58,6 @@ A modern, modular TypeScript-based UI component collection.
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
