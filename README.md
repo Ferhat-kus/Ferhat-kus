@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ferhat Kuş 👋
+# Ferhat Kuş
 
 **Full-Stack Developer** ・ TypeScript & Vue/Nuxt + React Native
 
@@ -12,7 +12,7 @@ I build end-to-end solutions that connect remote apps to the world — **from BI
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📈 BIST Analyzer (TS) — AI-Assisted Stock Analysis
 Nuxt 3 + **TypeScript + Supabase** based BIST stock analysis system. Automatic analysis scheduled after each market close via `node-cron`, visualized with Chart.js.
@@ -30,7 +30,7 @@ A modern, modular TypeScript-based UI component collection.
 
 ---
 
-## 🧭 Mentorship
+## Mentorship
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ A modern, modular TypeScript-based UI component collection.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Web / Frontend**
 
@@ -80,7 +80,7 @@ A modern, modular TypeScript-based UI component collection.
 
 <div align="center">
 
-**📫 Contact**
+**Contact**
 
 [![Email](https://img.shields.io/badge/Email-55ferhat.kus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:55ferhat.kus@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ferhat--kus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ferhat-kus)
