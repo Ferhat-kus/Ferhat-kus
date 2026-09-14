@@ -14,16 +14,16 @@ I build end-to-end solutions that connect remote apps to the world — **from BI
 
 ## Featured Projects
 
-### 📈 BIST Analyzer (TS) — AI-Assisted Stock Analysis
+### BIST Analyzer (TS) — AI-Assisted Stock Analysis
 Nuxt 3 + **TypeScript + Supabase** based BIST stock analysis system. Automatic analysis scheduled after each market close via `node-cron`, visualized with Chart.js.
 
-### 🎨 Unixy — Vector Graphics Editor
+### Unixy — Vector Graphics Editor
 A powerful **vector graphics editor** with infinite canvas on modern web technologies. *(Sparkflow-org)*
 
-### 🧩 BlankUI — Component Library
+### BlankUI — Component Library
 A modern, modular TypeScript-based UI component collection.
 
-### 🔭 Also Working On
+### Also Working On
 `mirage`
 
 **Organizations:** [Sparkflow-org](https://github.com/Sparkflow-org) ・ [studlytrack](https://github.com/studlytrack)
