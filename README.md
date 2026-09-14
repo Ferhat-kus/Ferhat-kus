@@ -14,24 +14,6 @@ I build end-to-end solutions that connect remote apps to the world — **from BI
 
 ---
 
-## 📊 GitHub İstatistikleri / GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Ferhat-kus?label=Followers&style=for-the-badge&color=0ACF97" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ferhat-kus?label=Stars&style=for-the-badge&color=0ACF97" alt="Stars" />
-  <img src="https://img.shields.io/badge/profile%20views-%E2%9C%94%20100%2B-0ACF97?style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2196F3/Ferhat-kus" alt="Katkı Takvimi / Contribution Calendar" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ferhat-kus&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" width="60%" />
-</p>
-
----
-
 ## 🚀 Öne Çıkan Projeler / Featured Projects
 
 ### 📈 BIST Analyzer (TS) — AI Destekli Hisse Analizi
@@ -106,14 +88,6 @@ A modern, modular TypeScript-based UI component collection.
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
----
-
-## 📈 Katkı Grafiği / Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2196F3/Ferhat-kus" alt="Contribution Graph" width="100%" />
-</p>
 
 ---
 
